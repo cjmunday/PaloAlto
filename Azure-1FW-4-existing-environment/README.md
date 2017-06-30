@@ -1,4 +1,4 @@
-
+https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fcjmunday%2FPaloAlto%2FAzure-1FW-4-existing-environment%2FAzureDeploy.json
 # This template was created to support the deployment of a 4 interface Palo Alto Networks firewall into an existing Microsoft Azure environment that has the following items already created:
 
                 -Availability Set for the Firewall
